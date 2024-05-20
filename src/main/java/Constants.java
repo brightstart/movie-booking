@@ -1,0 +1,23 @@
+public interface Constants {
+    double PLATINUM_PRICE = 320;
+    double GOLD_PRICE = 280;
+    double SILVER_PRICE = 240;
+    int A_MIN_AUDI1 = 1;
+    int A_MAX_AUDI1 = 9;
+    int A_MIN_AUDI2 = 1;
+    int A_MAX_AUDI2 = 7;
+    int A_MIN_AUDI3 = 1;
+    int A_MAX_AUDI3 = 7;
+    int B_MIN_AUDI1 = 1;
+    int B_MAX_AUDI1 = 6;
+    int B_MIN_AUDI2 = 2;
+    int B_MAX_AUDI2 = 6;
+    int B_MIN_AUDI3 = 1;
+    int B_MAX_AUDI3 = 8;
+    int C_MIN_AUDI1 = 2;
+    int C_MAX_AUDI1 = 7;
+    int C_MIN_AUDI2 = 1;
+    int C_MAX_AUDI2 = 7;
+    int C_MIN_AUDI3 = 1;
+    int C_MAX_AUDI3 = 9; 
+}
